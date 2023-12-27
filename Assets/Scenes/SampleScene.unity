@@ -286,11 +286,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4668098948264377186, guid: ccb0c61f50ebd41c9826bb786e68b6ec, type: 3}
       propertyPath: _width
-      value: 100
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 4668098948264377186, guid: ccb0c61f50ebd41c9826bb786e68b6ec, type: 3}
       propertyPath: _height
-      value: 100
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 4668098948264377186, guid: ccb0c61f50ebd41c9826bb786e68b6ec, type: 3}
       propertyPath: _battleCellPrefab
@@ -363,11 +363,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4668098948264377186, guid: ccb0c61f50ebd41c9826bb786e68b6ec, type: 3}
       propertyPath: _width
-      value: 100
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 4668098948264377186, guid: ccb0c61f50ebd41c9826bb786e68b6ec, type: 3}
       propertyPath: _height
-      value: 100
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 4668098948264377186, guid: ccb0c61f50ebd41c9826bb786e68b6ec, type: 3}
       propertyPath: _battleCellPrefab

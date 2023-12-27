@@ -9,19 +9,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2749069205508269982, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
       propertyPath: m_Layer
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2749069205596472237, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
       propertyPath: m_Layer
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2749069206614083986, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
       propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2749069206850161584, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
-      propertyPath: m_Layer
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2749069206850161586, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
       propertyPath: m_Color.b
@@ -82,14 +78,6 @@ PrefabInstance:
     - target: {fileID: 2749069206876675422, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
       propertyPath: m_Name
       value: Player_BattleCellDummy
-      objectReference: {fileID: 0}
-    - target: {fileID: 2749069206876675422, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2749069207167307900, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
-      propertyPath: m_Layer
-      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29b585203d0f74d74bb42ba483c40965, type: 3}
